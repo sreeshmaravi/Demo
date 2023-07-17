@@ -1,0 +1,48 @@
+/* log.css */
+
+/* Center the form vertically */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+
+/* Add some spacing to the form */
+form {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+/* Style the form header */
+h1 {
+  margin-bottom: 3rem;
+}
+
+/* Style the form inputs and labels */
+.form-floating {
+  margin-bottom: 1.5rem;
+}
+
+.form-floating label {
+  color: #777;
+}
+
+.form-floating input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+  margin-top: 1.5rem;
+}
+
+/* Add some spacing to the navbar */
+.navbar {
+  margin-bottom: 2rem;
+}

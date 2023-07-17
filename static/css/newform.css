@@ -1,0 +1,23 @@
+.custom-button {
+    padding: 30px 20px;
+    background-color: #f929f5;
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: #e868d7;
+  }
+  
+  body {
+    padding-top: 100px; /* Adjust the top padding to accommodate the fixed navbar */
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
